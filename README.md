@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Diversity Coffee 
 
 You can use the [editor on GitHub](https://github.com/ua-astro-grads/diversity_coffee/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
